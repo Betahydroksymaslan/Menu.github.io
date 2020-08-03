@@ -25,6 +25,7 @@
     align-items: center;
     height: 4rem;
     width: 4rem;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .nav__elements {
